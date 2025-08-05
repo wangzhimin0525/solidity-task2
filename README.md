@@ -13,4 +13,4 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 # 讨饭合约地址 0xcbBA4d128E51102CAC583d5e258Dd42858E8c7dd
 
-![alt text](1754364338230.png)
+![alt text](assets/1754364338230.png)
